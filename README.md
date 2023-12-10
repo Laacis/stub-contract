@@ -1,2 +1,2 @@
 # stub-contract
-stub contract and some tests for code examples
+stub contract and tests as code examples
